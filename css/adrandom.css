@@ -1,0 +1,11 @@
+
+
+#arw_block {
+	text-align:center;
+	color:transparent;
+}
+@media (max-width:991px) {
+	#arw_block img {
+		width:100%;
+	}
+}
